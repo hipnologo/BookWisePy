@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+*__pycache__
+.env
+.poetry.lock
