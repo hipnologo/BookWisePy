@@ -60,3 +60,5 @@ Contributions are welcome! Please feel free to submit pull requests.
 ## License
 
 This project is licensed under the Apache License 2.0 - see the [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) for details.
+
+<a href="https://www.buymeacoffee.com/hipnologod" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
